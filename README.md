@@ -81,12 +81,9 @@ Aparte de sentirte propietaria de un NFT, puedes:
 2. Unirte a la comunidad de Discord, y a través de verificar que tienes un Lunarian, unirte a canales privados.
 3. Venderlo ahora o más adelante en uno de los portales de NFTs para Solana, como Magic Eden ([https://magiceden.io/](https://magiceden.io/)).
 
----
-
 ## ¿Cómo está preparado este regalo? 🎁
 
 Este regalo está escrito en formato Markdown, en un repositorio de git y alojado en GitHub. 
 
 * Página web con este contenido: [https://guillermodlpa.github.io/lunaria-gift/](https://guillermodlpa.github.io/lunaria-gift/)
 * Código fuente: [https://github.com/guillermodlpa/lunaria-gift](https://github.com/guillermodlpa/lunaria-gift)
-
