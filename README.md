@@ -71,7 +71,7 @@ Algunos marketplaces:
 
 ## ¿Cómo te paso tu Lunarian?
 
-Tenemos que hacerlo juntos. Tienes que descargarte Phantom, una cartera de cryptomonedas y NFTs que se instala en Chrome. Una vez hayamos hecho eso, te lo puedo transferir.
+Tenemos que hacerlo juntos. Tienes que descargarte [Phantom](https://phantom.app/), una cartera de cryptomonedas y NFTs que se instala en Chrome. Una vez la hayamos instalado y guardado tus claves  de manera segura, te lo transferé.
 
 ## ¿Qué puedes hacer con tu Lunarian?
 
