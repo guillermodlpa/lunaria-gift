@@ -1,6 +1,6 @@
 # Lunaria Gift 🖼
 
-¡Feliz Navidad 2021, Ceci! Esta es la impresión de un fichero README que explica este regalo tan curioso.
+¡Feliz Navidad 2021! Esta es la impresión de un fichero README que explica este regalo tan curioso.
 
 ¡Tu regalo de Navidad 2021 es un NFT!
 
