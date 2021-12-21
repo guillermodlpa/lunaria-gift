@@ -70,8 +70,8 @@ Como en todas las colecciones del estilo, cada Lunarian en la colección tiene d
 
 Algunos marketplaces:
 
-* [Magic Eden | Lunaria](https://magiceden.io/marketplace/folktales_of_lunaria)
-* [Solanart | Lunaria](https://solanart.io/collections/lunaria)
+* [Magic Eden](https://magiceden.io/marketplace/folktales_of_lunaria)
+* [Solanart](https://solanart.io/collections/lunaria)
 
 ## ¿Cómo te paso tu Lunarian?
 
