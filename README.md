@@ -87,5 +87,3 @@ Este regalo está escrito en formato Markdown, en un repositorio de git y alojad
 
 * Página web con este contenido: [https://guillermodlpa.github.io/lunaria-gift/](https://guillermodlpa.github.io/lunaria-gift/)
 * Código fuente: [https://github.com/guillermodlpa/lunaria-gift](https://github.com/guillermodlpa/lunaria-gift)
-
-<img src="center-images.svg" width="1" height="1" alt="Helper SVG code to center images">
