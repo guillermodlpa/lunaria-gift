@@ -1,4 +1,4 @@
-# Lunaria Gift 🖼
+# Lunaria Gift
 
 ¡Feliz Navidad 2021! ¡Tu regalo de Navidad 2021 es un NFT, Lunarian #7936, de la colección Folktales of Lunaria!
 
@@ -36,15 +36,13 @@ El proyecto está en continuo desarrollo, con nuevas historias y nuevas sub-cole
 
 Los NFTs están implementados sobre Solana, una plataforma blockchain tal como Ethereum, pero más moderna e incluye ciertas mejoras. En Solana, se utilizan el token SOL para realizar transacciones, incluyendo adquirir NFTs. A mediados de diciembre de 2021, 1 SOL equivale a aproximadamente a 160 €.
 
-## ¿Cuál es el vídeo que quise compartir contigo?
+## ¿Cómo se hace un proyecto así?
 
 "How I Started an NFT Project That SOLD OUT IN 2 MINUTES" por Yoonsup “Locodoco” Choi. [https://www.youtube.com/watch?v=kOOyU1cnkWQ](https://www.youtube.com/watch?v=kOOyU1cnkWQ)
 
 ![YouTube video screenshot](./images/youtube-video-link.png)
 
-## ¿Qué descubrí?
-
-Que tener un NFT de una colección es convertirse en parte de su comunidad de coleccionistas. ¡Hay tanta similitud con el arte en el mundo real!
+Tener un NFT de una colección es convertirse en parte de su comunidad de coleccionistas. ¡Hay tanta similitud con el arte en el mundo real!
 
 Y es que cada equipo que lleva una colección tiene un Discord en el que forman comunidad.
 
