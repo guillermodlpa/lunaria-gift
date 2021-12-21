@@ -1,8 +1,8 @@
 # Lunaria Gift 🖼
 
-¡Feliz Navidad 2021! Esta es la impresión de un fichero README que explica este regalo tan curioso.
+¡Feliz Navidad 2021! ¡Tu regalo de Navidad 2021 es un NFT, Lunarian #7936, de la colección Folktales of Lunaria!
 
-¡Tu regalo de Navidad 2021 es un NFT!
+Esto que lees es la impresión de un fichero README, que explica en qué consiste este regalo y cómo mezcla arte y tecnología.
 
 ## Lunarian #7936
 
@@ -16,9 +16,9 @@ Pensemos en las cryptomonedas primero. Imagina que cada cryptomoneda es como un 
 
 Ahora en los NFT. Los NFT son como monedas únicas, cada una diferente. Por tanto, no hay dos iguales, no se pueden dividir, y cada una podría tener un valor diferente. El valor que la gente le de, igual que el arte.
 
-Y así, se pueden crear NFTs para representar lo que uno quiera. Algunos creadores generan NFTs y dicen que representan la propiedad de una obra de arte digital, o de incluso algo físico. Otros creadores generan NFTs para representar colecciones que ellos mismos han creado, y así poseer un NFT se considera tener parte de la colección.
+Y así, se pueden crear NFTs para representar lo que uno quiera. Algunos creadores generan NFTs y dicen que representan la propiedad de una obra de arte digital, o de incluso algo físico. Otros creadores generan NFTs para representar tener parte de una colección.
 
-## ¿Qué es Lunarian #7936? ⛱
+## ¿Qué es Lunarian #7936?
 
 El NFT que te regalo se llama Lunarian #7936. Es parte de una colección de 10,000 Lunarians, creados por un pequeño equipo en Estados Unidos que combina visión, diseño, programación, y marketing.
 
@@ -28,9 +28,13 @@ Investigando proyectos, este me gustó mucho porque su creador cuenta la histori
 
 Su página web: [https://lunaria.gg/](https://lunaria.gg/)
 
+Folktales of Lunaria es una colección de personajes, llamados Lunarians, que forman parte de un universo inventado por su equipo creador. Puedes aprender más de la historia en su página web.
+
 ![Lunaria logo with subtitle](./images/Lunaria-moon.png)
 
-Lunaria es una colección de NFTs construida sobre Solana, una plataforma blockchain tal como Ethereum, pero más moderna e incluye ciertas mejoras. En Solana, se utilizan el token SOL para realizar transacciones, incluyendo adquirir NFTs. A mediados de Diciembre de 2021, 1 SOL equivale a aproximadamente a 160 €.
+El proyecto está en continuo desarrollo, con nuevas historias y nuevas sub-colecciones de NFTs siendo creadas. Además, su equipo puede implementar nuevas funcionalidades a lo largo del tiempo que permiten modificar y evolucionar Lunarians.
+
+Los NFTs están implementados sobre Solana, una plataforma blockchain tal como Ethereum, pero más moderna e incluye ciertas mejoras. En Solana, se utilizan el token SOL para realizar transacciones, incluyendo adquirir NFTs. A mediados de diciembre de 2021, 1 SOL equivale a aproximadamente a 160 €.
 
 ## ¿Cuál es el vídeo que quise compartir contigo?
 
@@ -71,7 +75,7 @@ Algunos marketplaces:
 
 ## ¿Cómo te paso tu Lunarian?
 
-Tenemos que hacerlo juntos. Tienes que descargarte [Phantom](https://phantom.app/), una cartera de cryptomonedas y NFTs que se instala en Chrome. Una vez la hayamos instalado y guardado tus claves  de manera segura, te lo transferé.
+Tenemos que hacerlo juntos. Tienes que descargarte [Phantom](https://phantom.app/), una cartera de cryptomonedas y NFTs que se instala en Chrome. Una vez la hayamos instalado y guardado tus claves  de manera segura, te lo transferiré.
 
 ## ¿Qué puedes hacer con tu Lunarian?
 
